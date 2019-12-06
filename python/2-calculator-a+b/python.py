@@ -1,3 +1,4 @@
-a = int(input("skriv in nummer 1: "), 10)
-b = int(input("skriv in nummer 2: "), 10)
+a = int(input("skriv in nummer 1: "))
+b = int(input("skriv in nummer 2: "))
+print()
 print(a+b)
