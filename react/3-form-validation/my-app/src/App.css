@@ -1,0 +1,8 @@
+.App div {
+  display: flex;
+  flex-direction: column;
+}
+
+.App div input {
+  width: 200px;
+}
