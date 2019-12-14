@@ -1,8 +1,8 @@
-.App div {
+.App form {
   display: flex;
   flex-direction: column;
 }
 
-.App div input {
+.App form input {
   width: 200px;
-}
+} 
