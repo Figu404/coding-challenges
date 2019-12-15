@@ -1,3 +1,7 @@
+.App {
+  margin: 50px;
+}
+
 .App form {
   display: flex;
   flex-direction: column;
