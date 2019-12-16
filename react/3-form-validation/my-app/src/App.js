@@ -4,12 +4,12 @@ import './App.css';
 function App() {
   const[name, setName] = useState("");
   function changeName(e){
-    setName(e.target.value)
+    setName(e.target.value);
     console.log(e.target.value);
     console.log(e.target.value==="f")
-    if (name==="f"){
+    if (e.target.value==="f"){
       console.log("inne!")
-      setName("e.target.value")
+      setName("inne")
     }
     
   }
